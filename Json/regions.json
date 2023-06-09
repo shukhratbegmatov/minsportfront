@@ -1,0 +1,86 @@
+[
+  {
+    "id": 2,
+    "created_time": "2022-03-11T09:02:09+05:00",
+    "last_updated_time": "2022-03-11T09:02:42.646442+05:00",
+    "name": "Qoraqalpogʻiston Respublikasi"
+  },
+  {
+    "id": 5,
+    "created_time": "2022-03-11T09:10:47+05:00",
+    "last_updated_time": "2022-03-11T09:10:59.893404+05:00",
+    "name": "Andijon viloyati"
+  },
+  {
+    "id": 6,
+    "created_time": "2022-03-11T09:11:03+05:00",
+    "last_updated_time": "2022-03-11T09:11:09.680853+05:00",
+    "name": "Buxora viloyati"
+  },
+  {
+    "id": 7,
+    "created_time": "2022-03-11T09:11:15+05:00",
+    "last_updated_time": "2022-03-11T09:11:40.278053+05:00",
+    "name": "Fargʻona viloyati"
+  },
+  {
+    "id": 8,
+    "created_time": "2022-03-11T09:11:43+05:00",
+    "last_updated_time": "2022-03-11T09:11:58.201053+05:00",
+    "name": "Jizzax viloyati"
+  },
+  {
+    "id": 9,
+    "created_time": "2022-03-11T09:16:37+05:00",
+    "last_updated_time": "2022-03-11T09:17:01.479608+05:00",
+    "name": "Namangan viloyati"
+  },
+  {
+    "id": 10,
+    "created_time": "2022-03-11T09:17:04+05:00",
+    "last_updated_time": "2022-03-11T09:17:19.815716+05:00",
+    "name": "Qashqadaryo viloyati"
+  },
+  {
+    "id": 11,
+    "created_time": "2022-03-11T09:17:35+05:00",
+    "last_updated_time": "2022-03-11T09:17:39.643834+05:00",
+    "name": "Navoiy viloyati"
+  },
+  {
+    "id": 12,
+    "created_time": "2022-03-11T09:18:01+05:00",
+    "last_updated_time": "2022-03-11T09:18:04.974171+05:00",
+    "name": "Samarqand viloyati"
+  },
+  {
+    "id": 13,
+    "created_time": "2022-03-11T09:18:18+05:00",
+    "last_updated_time": "2022-03-11T09:18:21.999084+05:00",
+    "name": "Sirdaryo viloyati"
+  },
+  {
+    "id": 14,
+    "created_time": "2022-03-11T09:18:35+05:00",
+    "last_updated_time": "2022-03-11T09:18:38.980797+05:00",
+    "name": "Surxondaryo viloyati"
+  },
+  {
+    "id": 15,
+    "created_time": "2022-03-11T09:18:52+05:00",
+    "last_updated_time": "2022-03-11T09:18:56.675122+05:00",
+    "name": "Toshkent viloyati"
+  },
+  {
+    "id": 16,
+    "created_time": "2022-03-11T09:20:39+05:00",
+    "last_updated_time": "2022-03-11T09:20:43.065832+05:00",
+    "name": "Xorazm viloyati"
+  },
+  {
+    "id": 17,
+    "created_time": "2022-03-11T09:20:58+05:00",
+    "last_updated_time": "2022-03-11T09:21:01.494164+05:00",
+    "name": "Toshkent shahar"
+  }
+]

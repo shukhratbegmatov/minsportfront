@@ -1,0 +1,1244 @@
+[
+  {
+    "id": 2,
+    "name": "Nukus shahri",
+    "parent": 2,
+    "parent_name": "Qoraqalpogʻiston Respublikasi"
+  },
+  {
+    "id": 3,
+    "name": "Amudaryo tumani",
+    "parent": 2,
+    "parent_name": "Qoraqalpogʻiston Respublikasi"
+  },
+  {
+    "id": 4,
+    "name": "Beruniy tumani",
+    "parent": 2,
+    "parent_name": "Qoraqalpogʻiston Respublikasi"
+  },
+  {
+    "id": 5,
+    "name": "Boʼzatov  tumani",
+    "parent": 2,
+    "parent_name": "Qoraqalpogʻiston Respublikasi"
+  },
+  {
+    "id": 6,
+    "name": "Kegetli tumani",
+    "parent": 2,
+    "parent_name": "Qoraqalpogʻiston Respublikasi"
+  },
+  {
+    "id": 7,
+    "name": "Qonlikoʼl  tumani",
+    "parent": 2,
+    "parent_name": "Qoraqalpogʻiston Respublikasi"
+  },
+  {
+    "id": 8,
+    "name": "Qoraoʼzak  tumani",
+    "parent": 2,
+    "parent_name": "Qoraqalpogʻiston Respublikasi"
+  },
+  {
+    "id": 9,
+    "name": "Qoʼngʼirot  tumani",
+    "parent": 2,
+    "parent_name": "Qoraqalpogʻiston Respublikasi"
+  },
+  {
+    "id": 11,
+    "name": "Moʼynoq  tumani",
+    "parent": 2,
+    "parent_name": "Qoraqalpogʻiston Respublikasi"
+  },
+  {
+    "id": 12,
+    "name": "Nukus  tumani",
+    "parent": 2,
+    "parent_name": "Qoraqalpogʻiston Respublikasi"
+  },
+  {
+    "id": 13,
+    "name": "Taxiatosh  tumani",
+    "parent": 2,
+    "parent_name": "Qoraqalpogʻiston Respublikasi"
+  },
+  {
+    "id": 14,
+    "name": "Taxtakoʼpir  tumani",
+    "parent": 2,
+    "parent_name": "Qoraqalpogʻiston Respublikasi"
+  },
+  {
+    "id": 15,
+    "name": "Toʼrtkoʼl  tumani",
+    "parent": 2,
+    "parent_name": "Qoraqalpogʻiston Respublikasi"
+  },
+  {
+    "id": 16,
+    "name": "Xoʼjayli  tumani",
+    "parent": 2,
+    "parent_name": "Qoraqalpogʻiston Respublikasi"
+  },
+  {
+    "id": 17,
+    "name": "Chimboy  tumani",
+    "parent": 2,
+    "parent_name": "Qoraqalpogʻiston Respublikasi"
+  },
+  {
+    "id": 18,
+    "name": "Shumanay  tumani",
+    "parent": 2,
+    "parent_name": "Qoraqalpogʻiston Respublikasi"
+  },
+  {
+    "id": 19,
+    "name": "Ellikqalʼa  tumani",
+    "parent": 2,
+    "parent_name": "Qoraqalpogʻiston Respublikasi"
+  },
+  {
+    "id": 25,
+    "name": "Andijon shahri",
+    "parent": 5,
+    "parent_name": "Andijon viloyati"
+  },
+  {
+    "id": 26,
+    "name": "Andijon tumani",
+    "parent": 5,
+    "parent_name": "Andijon viloyati"
+  },
+  {
+    "id": 27,
+    "name": "Asaka tumani",
+    "parent": 5,
+    "parent_name": "Andijon viloyati"
+  },
+  {
+    "id": 28,
+    "name": "Baliqchi tumani",
+    "parent": 5,
+    "parent_name": "Andijon viloyati"
+  },
+  {
+    "id": 29,
+    "name": "Buloqboshi tumani",
+    "parent": 5,
+    "parent_name": "Andijon viloyati"
+  },
+  {
+    "id": 30,
+    "name": "Xonobod shahri",
+    "parent": 5,
+    "parent_name": "Andijon viloyati"
+  },
+  {
+    "id": 31,
+    "name": "Bo'ston tumani",
+    "parent": 5,
+    "parent_name": "Andijon viloyati"
+  },
+  {
+    "id": 32,
+    "name": "Jalaquduq tumani",
+    "parent": 5,
+    "parent_name": "Andijon viloyati"
+  },
+  {
+    "id": 33,
+    "name": "Izboskan tumani",
+    "parent": 5,
+    "parent_name": "Andijon viloyati"
+  },
+  {
+    "id": 34,
+    "name": "Qorg'ontepa tumani",
+    "parent": 5,
+    "parent_name": "Andijon viloyati"
+  },
+  {
+    "id": 35,
+    "name": "Marxamat tumani",
+    "parent": 5,
+    "parent_name": "Andijon viloyati"
+  },
+  {
+    "id": 36,
+    "name": "Oltinko'l tumani",
+    "parent": 5,
+    "parent_name": "Andijon viloyati"
+  },
+  {
+    "id": 37,
+    "name": "Paxtaobod tumani",
+    "parent": 5,
+    "parent_name": "Andijon viloyati"
+  },
+  {
+    "id": 38,
+    "name": "Ulug'nor tumani",
+    "parent": 5,
+    "parent_name": "Andijon viloyati"
+  },
+  {
+    "id": 39,
+    "name": "Xo'jaobod tumani",
+    "parent": 5,
+    "parent_name": "Andijon viloyati"
+  },
+  {
+    "id": 40,
+    "name": "Shahrixon tumani",
+    "parent": 5,
+    "parent_name": "Andijon viloyati"
+  },
+  {
+    "id": 51,
+    "name": "Qorovulbozor tumani",
+    "parent": 6,
+    "parent_name": "Buxora viloyati"
+  },
+  {
+    "id": 52,
+    "name": "Buxoro shahar",
+    "parent": 6,
+    "parent_name": "Buxora viloyati"
+  },
+  {
+    "id": 53,
+    "name": "Buxoro tuman",
+    "parent": 6,
+    "parent_name": "Buxora viloyati"
+  },
+  {
+    "id": 54,
+    "name": "G'ijduvon tuman",
+    "parent": 6,
+    "parent_name": "Buxora viloyati"
+  },
+  {
+    "id": 55,
+    "name": "Jondor tuman",
+    "parent": 6,
+    "parent_name": "Buxora viloyati"
+  },
+  {
+    "id": 56,
+    "name": "Kogon shahar",
+    "parent": 6,
+    "parent_name": "Buxora viloyati"
+  },
+  {
+    "id": 57,
+    "name": "Kogon tuman",
+    "parent": 6,
+    "parent_name": "Buxora viloyati"
+  },
+  {
+    "id": 58,
+    "name": "Olot tumani",
+    "parent": 6,
+    "parent_name": "Buxora viloyati"
+  },
+  {
+    "id": 59,
+    "name": "Peshku tumani",
+    "parent": 6,
+    "parent_name": "Buxora viloyati"
+  },
+  {
+    "id": 60,
+    "name": "Romitan tumani",
+    "parent": 6,
+    "parent_name": "Buxora viloyati"
+  },
+  {
+    "id": 61,
+    "name": "Shofirkon tumani",
+    "parent": 6,
+    "parent_name": "Buxora viloyati"
+  },
+  {
+    "id": 62,
+    "name": "Qorako'l tumani",
+    "parent": 6,
+    "parent_name": "Buxora viloyati"
+  },
+  {
+    "id": 63,
+    "name": "Vobkent tumani",
+    "parent": 6,
+    "parent_name": "Buxora viloyati"
+  },
+  {
+    "id": 64,
+    "name": "Farg'ona shahar",
+    "parent": 7,
+    "parent_name": "Fargʻona viloyati"
+  },
+  {
+    "id": 65,
+    "name": "Marg'ilon shahar",
+    "parent": 7,
+    "parent_name": "Fargʻona viloyati"
+  },
+  {
+    "id": 66,
+    "name": "Qo'qon shahar",
+    "parent": 7,
+    "parent_name": "Fargʻona viloyati"
+  },
+  {
+    "id": 67,
+    "name": "Quvasoy shahar",
+    "parent": 7,
+    "parent_name": "Fargʻona viloyati"
+  },
+  {
+    "id": 68,
+    "name": "Beshariq tumani",
+    "parent": 7,
+    "parent_name": "Fargʻona viloyati"
+  },
+  {
+    "id": 69,
+    "name": "Bag'dod tumani",
+    "parent": 7,
+    "parent_name": "Fargʻona viloyati"
+  },
+  {
+    "id": 70,
+    "name": "Buvayda tumani",
+    "parent": 7,
+    "parent_name": "Fargʻona viloyati"
+  },
+  {
+    "id": 71,
+    "name": "Dang'ara tumani",
+    "parent": 7,
+    "parent_name": "Fargʻona viloyati"
+  },
+  {
+    "id": 72,
+    "name": "Quva tumani",
+    "parent": 7,
+    "parent_name": "Fargʻona viloyati"
+  },
+  {
+    "id": 73,
+    "name": "Oltiariq tumani",
+    "parent": 7,
+    "parent_name": "Fargʻona viloyati"
+  },
+  {
+    "id": 74,
+    "name": "Qo'shtepa tumani",
+    "parent": 7,
+    "parent_name": "Fargʻona viloyati"
+  },
+  {
+    "id": 75,
+    "name": "Yozyovon tumani",
+    "parent": 7,
+    "parent_name": "Fargʻona viloyati"
+  },
+  {
+    "id": 76,
+    "name": "Rishton tumani",
+    "parent": 7,
+    "parent_name": "Fargʻona viloyati"
+  },
+  {
+    "id": 77,
+    "name": "Farg'ona tumani",
+    "parent": 7,
+    "parent_name": "Fargʻona viloyati"
+  },
+  {
+    "id": 78,
+    "name": "Furqat tumani",
+    "parent": 7,
+    "parent_name": "Fargʻona viloyati"
+  },
+  {
+    "id": 79,
+    "name": "So'x tumani",
+    "parent": 7,
+    "parent_name": "Fargʻona viloyati"
+  },
+  {
+    "id": 80,
+    "name": "Toshloq tumani",
+    "parent": 7,
+    "parent_name": "Fargʻona viloyati"
+  },
+  {
+    "id": 81,
+    "name": "O'zbekiston tumani",
+    "parent": 7,
+    "parent_name": "Fargʻona viloyati"
+  },
+  {
+    "id": 82,
+    "name": "Uchko'prik tumani",
+    "parent": 7,
+    "parent_name": "Fargʻona viloyati"
+  },
+  {
+    "id": 83,
+    "name": "Arnasoy tumani",
+    "parent": 8,
+    "parent_name": "Jizzax viloyati"
+  },
+  {
+    "id": 84,
+    "name": "Baxmal tumani",
+    "parent": 8,
+    "parent_name": "Jizzax viloyati"
+  },
+  {
+    "id": 85,
+    "name": "G'allaorol tumani",
+    "parent": 8,
+    "parent_name": "Jizzax viloyati"
+  },
+  {
+    "id": 86,
+    "name": "Sharof Rashidov tumani",
+    "parent": 8,
+    "parent_name": "Jizzax viloyati"
+  },
+  {
+    "id": 87,
+    "name": "Do'stlik tumani",
+    "parent": 8,
+    "parent_name": "Jizzax viloyati"
+  },
+  {
+    "id": 88,
+    "name": "Zafarobod tumani",
+    "parent": 8,
+    "parent_name": "Jizzax viloyati"
+  },
+  {
+    "id": 89,
+    "name": "Zarbdor tumani",
+    "parent": 8,
+    "parent_name": "Jizzax viloyati"
+  },
+  {
+    "id": 90,
+    "name": "Zomin tumani",
+    "parent": 8,
+    "parent_name": "Jizzax viloyati"
+  },
+  {
+    "id": 91,
+    "name": "Mirzacho'l tumani",
+    "parent": 8,
+    "parent_name": "Jizzax viloyati"
+  },
+  {
+    "id": 92,
+    "name": "Paxtakor tumani",
+    "parent": 8,
+    "parent_name": "Jizzax viloyati"
+  },
+  {
+    "id": 93,
+    "name": "Forish tumani",
+    "parent": 8,
+    "parent_name": "Jizzax viloyati"
+  },
+  {
+    "id": 94,
+    "name": "Jizzax shahri",
+    "parent": 8,
+    "parent_name": "Jizzax viloyati"
+  },
+  {
+    "id": 95,
+    "name": "Yangiobod tumani",
+    "parent": 8,
+    "parent_name": "Jizzax viloyati"
+  },
+  {
+    "id": 96,
+    "name": "Namangan shahar",
+    "parent": 9,
+    "parent_name": "Namangan viloyati"
+  },
+  {
+    "id": 97,
+    "name": "Davlatobod tumani",
+    "parent": 9,
+    "parent_name": "Namangan viloyati"
+  },
+  {
+    "id": 98,
+    "name": "Yangi namangan tumani",
+    "parent": 9,
+    "parent_name": "Namangan viloyati"
+  },
+  {
+    "id": 99,
+    "name": "Kosonsoy tumani",
+    "parent": 9,
+    "parent_name": "Namangan viloyati"
+  },
+  {
+    "id": 100,
+    "name": "Mingbuloq tumani",
+    "parent": 9,
+    "parent_name": "Namangan viloyati"
+  },
+  {
+    "id": 101,
+    "name": "Namangan tumani",
+    "parent": 9,
+    "parent_name": "Namangan viloyati"
+  },
+  {
+    "id": 102,
+    "name": "Norin tumani",
+    "parent": 9,
+    "parent_name": "Namangan viloyati"
+  },
+  {
+    "id": 103,
+    "name": "Pop tumani",
+    "parent": 9,
+    "parent_name": "Namangan viloyati"
+  },
+  {
+    "id": 104,
+    "name": "To'raqo'rg'on tumani",
+    "parent": 9,
+    "parent_name": "Namangan viloyati"
+  },
+  {
+    "id": 105,
+    "name": "Chust tumani",
+    "parent": 9,
+    "parent_name": "Namangan viloyati"
+  },
+  {
+    "id": 106,
+    "name": "Uychi tumani",
+    "parent": 9,
+    "parent_name": "Namangan viloyati"
+  },
+  {
+    "id": 107,
+    "name": "Yangiqo'rg'on tumani",
+    "parent": 9,
+    "parent_name": "Namangan viloyati"
+  },
+  {
+    "id": 108,
+    "name": "Uchqo'rg'on tumani",
+    "parent": 9,
+    "parent_name": "Namangan viloyati"
+  },
+  {
+    "id": 109,
+    "name": "Chortoq tumani",
+    "parent": 9,
+    "parent_name": "Namangan viloyati"
+  },
+  {
+    "id": 110,
+    "name": "Qarshi shahri",
+    "parent": 10,
+    "parent_name": "Qashqadaryo viloyati"
+  },
+  {
+    "id": 111,
+    "name": "Shahrisabz shahri",
+    "parent": 10,
+    "parent_name": "Qashqadaryo viloyati"
+  },
+  {
+    "id": 112,
+    "name": "G‘uzor tumani",
+    "parent": 10,
+    "parent_name": "Qashqadaryo viloyati"
+  },
+  {
+    "id": 113,
+    "name": "Dehqonobod tumani",
+    "parent": 10,
+    "parent_name": "Qashqadaryo viloyati"
+  },
+  {
+    "id": 114,
+    "name": "Qamashi tumani",
+    "parent": 10,
+    "parent_name": "Qashqadaryo viloyati"
+  },
+  {
+    "id": 115,
+    "name": "Qarshi tumani",
+    "parent": 10,
+    "parent_name": "Qashqadaryo viloyati"
+  },
+  {
+    "id": 116,
+    "name": "Kasbi tumani",
+    "parent": 10,
+    "parent_name": "Qashqadaryo viloyati"
+  },
+  {
+    "id": 117,
+    "name": "Kitob tumani",
+    "parent": 10,
+    "parent_name": "Qashqadaryo viloyati"
+  },
+  {
+    "id": 118,
+    "name": "Koson tumani",
+    "parent": 10,
+    "parent_name": "Qashqadaryo viloyati"
+  },
+  {
+    "id": 119,
+    "name": "Mirishkor tumani",
+    "parent": 10,
+    "parent_name": "Qashqadaryo viloyati"
+  },
+  {
+    "id": 120,
+    "name": "Muborak tumani",
+    "parent": 10,
+    "parent_name": "Qashqadaryo viloyati"
+  },
+  {
+    "id": 121,
+    "name": "Yakkabog‘ tumani",
+    "parent": 10,
+    "parent_name": "Qashqadaryo viloyati"
+  },
+  {
+    "id": 122,
+    "name": "Nishon tumani",
+    "parent": 10,
+    "parent_name": "Qashqadaryo viloyati"
+  },
+  {
+    "id": 123,
+    "name": "Chiroqchi tumani",
+    "parent": 10,
+    "parent_name": "Qashqadaryo viloyati"
+  },
+  {
+    "id": 124,
+    "name": "Shahrisabz tumani",
+    "parent": 10,
+    "parent_name": "Qashqadaryo viloyati"
+  },
+  {
+    "id": 125,
+    "name": "Navoiy shahar",
+    "parent": 11,
+    "parent_name": "Navoiy viloyati"
+  },
+  {
+    "id": 126,
+    "name": "Zarafshon shahar",
+    "parent": 11,
+    "parent_name": "Navoiy viloyati"
+  },
+  {
+    "id": 127,
+    "name": "Gʻozg‘on shahar",
+    "parent": 11,
+    "parent_name": "Navoiy viloyati"
+  },
+  {
+    "id": 128,
+    "name": "Karmana tumani",
+    "parent": 11,
+    "parent_name": "Navoiy viloyati"
+  },
+  {
+    "id": 129,
+    "name": "Konimex tumani",
+    "parent": 11,
+    "parent_name": "Navoiy viloyati"
+  },
+  {
+    "id": 130,
+    "name": "Qiziltepa tumani",
+    "parent": 11,
+    "parent_name": "Navoiy viloyati"
+  },
+  {
+    "id": 131,
+    "name": "Xatirchi tumani",
+    "parent": 11,
+    "parent_name": "Navoiy viloyati"
+  },
+  {
+    "id": 132,
+    "name": "Navbaxor tumani",
+    "parent": 11,
+    "parent_name": "Navoiy viloyati"
+  },
+  {
+    "id": 133,
+    "name": "Nurota tumani",
+    "parent": 11,
+    "parent_name": "Navoiy viloyati"
+  },
+  {
+    "id": 134,
+    "name": "Tomdi tumani",
+    "parent": 11,
+    "parent_name": "Navoiy viloyati"
+  },
+  {
+    "id": 135,
+    "name": "Uchquduq tumani",
+    "parent": 11,
+    "parent_name": "Navoiy viloyati"
+  },
+  {
+    "id": 136,
+    "name": "Samarqand shahar",
+    "parent": 12,
+    "parent_name": "Samarqand viloyati"
+  },
+  {
+    "id": 137,
+    "name": "Bulung‘ur tumani",
+    "parent": 12,
+    "parent_name": "Samarqand viloyati"
+  },
+  {
+    "id": 138,
+    "name": "Ishtixon tumani",
+    "parent": 12,
+    "parent_name": "Samarqand viloyati"
+  },
+  {
+    "id": 139,
+    "name": "Jomboy tumani",
+    "parent": 12,
+    "parent_name": "Samarqand viloyati"
+  },
+  {
+    "id": 140,
+    "name": "Kattaqo‘rg‘on tumani",
+    "parent": 12,
+    "parent_name": "Samarqand viloyati"
+  },
+  {
+    "id": 141,
+    "name": "Narpay tumani",
+    "parent": 12,
+    "parent_name": "Samarqand viloyati"
+  },
+  {
+    "id": 142,
+    "name": "Nurobod tumani",
+    "parent": 12,
+    "parent_name": "Samarqand viloyati"
+  },
+  {
+    "id": 143,
+    "name": "Oqdaryo tumani",
+    "parent": 12,
+    "parent_name": "Samarqand viloyati"
+  },
+  {
+    "id": 144,
+    "name": "Pastdarg‘om tumani",
+    "parent": 12,
+    "parent_name": "Samarqand viloyati"
+  },
+  {
+    "id": 145,
+    "name": "Paxtachi tumani",
+    "parent": 12,
+    "parent_name": "Samarqand viloyati"
+  },
+  {
+    "id": 146,
+    "name": "Toyloq tumani",
+    "parent": 12,
+    "parent_name": "Samarqand viloyati"
+  },
+  {
+    "id": 147,
+    "name": "Payariq tumani",
+    "parent": 12,
+    "parent_name": "Samarqand viloyati"
+  },
+  {
+    "id": 148,
+    "name": "Kattaqo'rg'on shahar",
+    "parent": 12,
+    "parent_name": "Samarqand viloyati"
+  },
+  {
+    "id": 149,
+    "name": "Urgut tumani",
+    "parent": 12,
+    "parent_name": "Samarqand viloyati"
+  },
+  {
+    "id": 150,
+    "name": "Qo'shrabot tumani",
+    "parent": 12,
+    "parent_name": "Samarqand viloyati"
+  },
+  {
+    "id": 151,
+    "name": "Samarqand tumani",
+    "parent": 12,
+    "parent_name": "Samarqand viloyati"
+  },
+  {
+    "id": 152,
+    "name": "Guliston shahri",
+    "parent": 13,
+    "parent_name": "Sirdaryo viloyati"
+  },
+  {
+    "id": 153,
+    "name": "Shirin shahri",
+    "parent": 13,
+    "parent_name": "Sirdaryo viloyati"
+  },
+  {
+    "id": 154,
+    "name": "Guliston tumani",
+    "parent": 13,
+    "parent_name": "Sirdaryo viloyati"
+  },
+  {
+    "id": 155,
+    "name": "Yangiyer shahri",
+    "parent": 13,
+    "parent_name": "Sirdaryo viloyati"
+  },
+  {
+    "id": 156,
+    "name": "Boyovut tumani",
+    "parent": 13,
+    "parent_name": "Sirdaryo viloyati"
+  },
+  {
+    "id": 157,
+    "name": "Mirzaobod tumani",
+    "parent": 13,
+    "parent_name": "Sirdaryo viloyati"
+  },
+  {
+    "id": 158,
+    "name": "Oqoltin tumani",
+    "parent": 13,
+    "parent_name": "Sirdaryo viloyati"
+  },
+  {
+    "id": 159,
+    "name": "Sardoba tumani",
+    "parent": 13,
+    "parent_name": "Sirdaryo viloyati"
+  },
+  {
+    "id": 160,
+    "name": "Sirdaryo tumani",
+    "parent": 13,
+    "parent_name": "Sirdaryo viloyati"
+  },
+  {
+    "id": 161,
+    "name": "Xovos tumani",
+    "parent": 13,
+    "parent_name": "Sirdaryo viloyati"
+  },
+  {
+    "id": 162,
+    "name": "Sayxunobod tumani",
+    "parent": 13,
+    "parent_name": "Sirdaryo viloyati"
+  },
+  {
+    "id": 163,
+    "name": "Termiz shahar",
+    "parent": 14,
+    "parent_name": "Surxondaryo viloyati"
+  },
+  {
+    "id": 164,
+    "name": "Angor tumani",
+    "parent": 14,
+    "parent_name": "Surxondaryo viloyati"
+  },
+  {
+    "id": 165,
+    "name": "Bandixon tumani",
+    "parent": 14,
+    "parent_name": "Surxondaryo viloyati"
+  },
+  {
+    "id": 167,
+    "name": "Boysun tumani",
+    "parent": 14,
+    "parent_name": "Surxondaryo viloyati"
+  },
+  {
+    "id": 168,
+    "name": "Denov tumani",
+    "parent": 14,
+    "parent_name": "Surxondaryo viloyati"
+  },
+  {
+    "id": 169,
+    "name": "Jarqo'rg'on tumani",
+    "parent": 14,
+    "parent_name": "Surxondaryo viloyati"
+  },
+  {
+    "id": 170,
+    "name": "Sariosiyo tumani",
+    "parent": 14,
+    "parent_name": "Surxondaryo viloyati"
+  },
+  {
+    "id": 171,
+    "name": "Termiz tumani",
+    "parent": 14,
+    "parent_name": "Surxondaryo viloyati"
+  },
+  {
+    "id": 172,
+    "name": "Uzun tumani",
+    "parent": 14,
+    "parent_name": "Surxondaryo viloyati"
+  },
+  {
+    "id": 173,
+    "name": "Oltinsoy tumani",
+    "parent": 14,
+    "parent_name": "Surxondaryo viloyati"
+  },
+  {
+    "id": 174,
+    "name": "Qumqo'rg'on tumani",
+    "parent": 14,
+    "parent_name": "Surxondaryo viloyati"
+  },
+  {
+    "id": 175,
+    "name": "Muzrabot tumani",
+    "parent": 14,
+    "parent_name": "Surxondaryo viloyati"
+  },
+  {
+    "id": 176,
+    "name": "Sherobod tumani",
+    "parent": 14,
+    "parent_name": "Surxondaryo viloyati"
+  },
+  {
+    "id": 177,
+    "name": "Sho'rchi tumani",
+    "parent": 14,
+    "parent_name": "Surxondaryo viloyati"
+  },
+  {
+    "id": 178,
+    "name": "Qiziriq tumani",
+    "parent": 14,
+    "parent_name": "Surxondaryo viloyati"
+  },
+  {
+    "id": 179,
+    "name": "Angren shahar",
+    "parent": 15,
+    "parent_name": "Toshkent viloyati"
+  },
+  {
+    "id": 180,
+    "name": "Bekobod tumani",
+    "parent": 15,
+    "parent_name": "Toshkent viloyati"
+  },
+  {
+    "id": 181,
+    "name": "Bekobod shahar",
+    "parent": 15,
+    "parent_name": "Toshkent viloyati"
+  },
+  {
+    "id": 182,
+    "name": "Bo‘stonliq tumani",
+    "parent": 15,
+    "parent_name": "Toshkent viloyati"
+  },
+  {
+    "id": 183,
+    "name": "Bo‘ka tumani",
+    "parent": 15,
+    "parent_name": "Toshkent viloyati"
+  },
+  {
+    "id": 184,
+    "name": "Nurafshon shahar",
+    "parent": 15,
+    "parent_name": "Toshkent viloyati"
+  },
+  {
+    "id": 185,
+    "name": "Oxangaron shahar",
+    "parent": 15,
+    "parent_name": "Toshkent viloyati"
+  },
+  {
+    "id": 186,
+    "name": "Yangiyo‘l shahar",
+    "parent": 15,
+    "parent_name": "Toshkent viloyati"
+  },
+  {
+    "id": 187,
+    "name": "Zangiota tumani",
+    "parent": 15,
+    "parent_name": "Toshkent viloyati"
+  },
+  {
+    "id": 188,
+    "name": "Qibray tumani",
+    "parent": 15,
+    "parent_name": "Toshkent viloyati"
+  },
+  {
+    "id": 189,
+    "name": "Oqqo‘rg‘on tumani",
+    "parent": 15,
+    "parent_name": "Toshkent viloyati"
+  },
+  {
+    "id": 190,
+    "name": "Quyi Chirchiq tumani",
+    "parent": 15,
+    "parent_name": "Toshkent viloyati"
+  },
+  {
+    "id": 191,
+    "name": "Chirchiq shahar",
+    "parent": 15,
+    "parent_name": "Toshkent viloyati"
+  },
+  {
+    "id": 192,
+    "name": "Parkent tumani",
+    "parent": 15,
+    "parent_name": "Toshkent viloyati"
+  },
+  {
+    "id": 193,
+    "name": "Toshkent tumani",
+    "parent": 15,
+    "parent_name": "Toshkent viloyati"
+  },
+  {
+    "id": 194,
+    "name": "Olmaliq shahar",
+    "parent": 15,
+    "parent_name": "Toshkent viloyati"
+  },
+  {
+    "id": 195,
+    "name": "Piskent tumani",
+    "parent": 15,
+    "parent_name": "Toshkent viloyati"
+  },
+  {
+    "id": 196,
+    "name": "Ohangaron tumani",
+    "parent": 15,
+    "parent_name": "Toshkent viloyati"
+  },
+  {
+    "id": 197,
+    "name": "O‘rta Chirchiq tumani",
+    "parent": 15,
+    "parent_name": "Toshkent viloyati"
+  },
+  {
+    "id": 199,
+    "name": "Chinoz tumani",
+    "parent": 15,
+    "parent_name": "Toshkent viloyati"
+  },
+  {
+    "id": 200,
+    "name": "Xiva shahar",
+    "parent": 16,
+    "parent_name": "Xorazm viloyati"
+  },
+  {
+    "id": 201,
+    "name": "Urganch shahar",
+    "parent": 16,
+    "parent_name": "Xorazm viloyati"
+  },
+  {
+    "id": 202,
+    "name": "Bog‘ot tumani",
+    "parent": 16,
+    "parent_name": "Xorazm viloyati"
+  },
+  {
+    "id": 203,
+    "name": "Gurlan tumani",
+    "parent": 16,
+    "parent_name": "Xorazm viloyati"
+  },
+  {
+    "id": 204,
+    "name": "Qo‘shko‘pir tumani",
+    "parent": 16,
+    "parent_name": "Xorazm viloyati"
+  },
+  {
+    "id": 205,
+    "name": "Hazorasp tumani",
+    "parent": 16,
+    "parent_name": "Xorazm viloyati"
+  },
+  {
+    "id": 206,
+    "name": "Xonqa tumani",
+    "parent": 16,
+    "parent_name": "Xorazm viloyati"
+  },
+  {
+    "id": 207,
+    "name": "Xiva tumani",
+    "parent": 16,
+    "parent_name": "Xorazm viloyati"
+  },
+  {
+    "id": 208,
+    "name": "Shovot tumani",
+    "parent": 16,
+    "parent_name": "Xorazm viloyati"
+  },
+  {
+    "id": 209,
+    "name": "Yangiariq tumani",
+    "parent": 16,
+    "parent_name": "Xorazm viloyati"
+  },
+  {
+    "id": 210,
+    "name": "Yangibozor tumani",
+    "parent": 16,
+    "parent_name": "Xorazm viloyati"
+  },
+  {
+    "id": 211,
+    "name": "Urganch tumani",
+    "parent": 16,
+    "parent_name": "Xorazm viloyati"
+  },
+  {
+    "id": 212,
+    "name": "Tuproqqal'a tumani",
+    "parent": 16,
+    "parent_name": "Xorazm viloyati"
+  },
+  {
+    "id": 213,
+    "name": "Bektemir tumani",
+    "parent": 17,
+    "parent_name": "Toshkent shahar"
+  },
+  {
+    "id": 215,
+    "name": "Mirzo Ulugʼbek tumani",
+    "parent": 17,
+    "parent_name": "Toshkent shahar"
+  },
+  {
+    "id": 216,
+    "name": "Mirobod tumani",
+    "parent": 17,
+    "parent_name": "Toshkent shahar"
+  },
+  {
+    "id": 217,
+    "name": "Olmazor tumani",
+    "parent": 17,
+    "parent_name": "Toshkent shahar"
+  },
+  {
+    "id": 219,
+    "name": "Sergeli tumani",
+    "parent": 17,
+    "parent_name": "Toshkent shahar"
+  },
+  {
+    "id": 220,
+    "name": "Yunusobod tumani",
+    "parent": 17,
+    "parent_name": "Toshkent shahar"
+  },
+  {
+    "id": 221,
+    "name": "Yakkasaroy tumani",
+    "parent": 17,
+    "parent_name": "Toshkent shahar"
+  },
+  {
+    "id": 222,
+    "name": "Yangihayot tumani",
+    "parent": 17,
+    "parent_name": "Toshkent shahar"
+  },
+  {
+    "id": 223,
+    "name": "Chilonzor tumani",
+    "parent": 17,
+    "parent_name": "Toshkent shahar"
+  },
+  {
+    "id": 225,
+    "name": "Shayxontohur tumani",
+    "parent": 17,
+    "parent_name": "Toshkent shahar"
+  },
+  {
+    "id": 226,
+    "name": "Yashnobod tumani",
+    "parent": 17,
+    "parent_name": "Toshkent shahar"
+  },
+  {
+    "id": 227,
+    "name": "Uchtepe tumani",
+    "parent": 17,
+    "parent_name": "Toshkent shahar"
+  },
+  {
+    "id": 228,
+    "name": "Yangiyo‘l tumani",
+    "parent": 15,
+    "parent_name": "Toshkent viloyati"
+  },
+  {
+    "id": 229,
+    "name": "Yuqori Chirchiq tumani",
+    "parent": 15,
+    "parent_name": "Toshkent viloyati"
+  }
+]
